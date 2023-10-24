@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reyna{
+public class aretalla{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while(true){
